@@ -1,0 +1,9 @@
+name: MxGroup
+version: '${version}'
+main: br.com.mxtheuz.mxgroup.MxGroup
+api-version: '1.16'
+
+commands:
+  setgroup:
+  removegroup:
+  checkgroup:
