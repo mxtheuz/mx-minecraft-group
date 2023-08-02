@@ -38,5 +38,7 @@ If you need help with the `mx-minecraft-group` plugin or have any questions, fee
 
 The `mx-minecraft-group` plugin was developed by [Your Name](https://github.com/mxtheuz). Special thanks to the Bukkit and Spigot community for their support and contributions.
 
----
+<hr>
+
+Could you follow me? ❤
 
